@@ -1,6 +1,6 @@
-# eem
+# Expense Manager
 
-An Emplyee Expense Management System
+An Employee Expense Management System
 
 ## Getting Started
 
